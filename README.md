@@ -1,6 +1,6 @@
 # Introduction
 
-List of board lectures provided by ALLEN collected by me 
+List of board lectures provided by ALLEN collected by me [term-2]
 
 # Physics
 ### 1. Ray Optics | Lectures
