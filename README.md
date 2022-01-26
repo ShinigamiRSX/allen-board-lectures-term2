@@ -1,6 +1,17 @@
 # Introduction
 
-List of board lectures provided by ALLEN collected by me [term-2]
+List of board lectures provided by ALLEN collected by me 
+
+# CBSE-Term2-Exam-Strategy 
+### [Physics](https://player.vimeo.com/video/668589579?h=7914e5d4b8)
+### [Chemistry](https://player.vimeo.com/video/668589178?h=3e1c8cea47)
+### [Maths](https://player.vimeo.com/video/668590355?h=a926163eab)
+### [English](https://player.vimeo.com/video/668591052?h=44cad648dc)
+### [Hindi](https://player.vimeo.com/video/668591400?h=3ac3a6ca85)
+### [Physical Education](https://player.vimeo.com/video/668591875?h=0e05791c92)
+### [Computer Science](https://player.vimeo.com/video/668592657?h=6871707424)
+
+
 
 # Physics
 ### 1. Ray Optics | Lectures
@@ -16,6 +27,21 @@ List of board lectures provided by ALLEN collected by me [term-2]
 ### 2. Electromagnetic waves | Lectures
 ####   [Lecture 1](https://player.vimeo.com/video/662171536?h=de41371739)
 ####   [Lecture 2](https://player.vimeo.com/video/662170606?h=382fe5a7ad)
+
+### 3. Wave Optics | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/665155025?h=64ed5ef38f)
+####   [Lecture 2](https://player.vimeo.com/video/665155210?h=0d38152052)
+####   [Lecture 3](https://player.vimeo.com/video/665154578?h=233cf13968)
+####   [Lecture 4](https://player.vimeo.com/video/665154751?h=f7a01a614a)
+####   [Lecture 5](https://player.vimeo.com/video/665154863?h=bcfc579d76)
+
+### 4. Dual Nature of Radiation and Matter | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/668546691?h=545d6d0d4b)
+####   [Lecture 2](https://player.vimeo.com/video/668546505?h=a8565c4402)
+
+### 5. Atoms | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/668547473?h=2221843d4a)
+####   [Lecture 2](https://player.vimeo.com/video/668546895?h=78236329f1)
 
 # Chemistry
 
@@ -43,6 +69,11 @@ List of board lectures provided by ALLEN collected by me [term-2]
 ####   [Lecture 2](https://player.vimeo.com/video/660353675?h=b38c000b4d)
 ####   [Lecture 3](https://player.vimeo.com/video/660353936?h=8595699b34)
 
+### 2. Coordination Compounds | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/668548837?h=086e5b1784)
+####   [Lecture 2](https://player.vimeo.com/video/668548005?h=323d9bb7ed)
+####   [Lecture 3](https://player.vimeo.com/video/668548314?h=d5535a89c6)
+
 # Maths
 
 ### 1. Integrals | Lectures
@@ -55,3 +86,13 @@ List of board lectures provided by ALLEN collected by me [term-2]
 ####   [Lecture 7](https://player.vimeo.com/video/662166622?h=83570147c3)
 ####   [Lecture 8](https://player.vimeo.com/video/662167206?h=6b09682ed6)
 ####   [Lecture 9](https://player.vimeo.com/video/662167566?h=35adb335c1)
+
+### 2. Application of Integrals | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/665127449?h=ec37990014)
+####   [Lecture 2](https://player.vimeo.com/video/665128798?h=1243c436fd)
+
+### 3. Differential Equation | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/668545479?h=619309b124)
+####   [Lecture 2](https://player.vimeo.com/video/668545988?h=fd040205b6)
+####   [Lecture 3](https://player.vimeo.com/video/668544893?h=93de9a088d)
+####   [Lecture 4](https://player.vimeo.com/video/668545350?h=446edcdd32)
