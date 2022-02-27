@@ -11,6 +11,27 @@ List of board lectures provided by ALLEN collected by me
 ### [Physical Education](https://player.vimeo.com/video/668591875?h=0e05791c92)
 ### [Computer Science](https://player.vimeo.com/video/668592657?h=6871707424)
 
+## Link to All Allen CBSE Booklets 
+[Download](https://archive.org/download/term2lectures/Term2.rar)
+
+
+# English
+## Vistas
+####   [Lecture 1](https://player.vimeo.com/video/670649123?h=5a79614d2a)
+####   [Lecture 2](https://player.vimeo.com/video/670644204?h=4758a49b40)
+####   [Lecture 3](https://player.vimeo.com/video/670645949?h=79ec209339)
+####   [Lecture 4](https://player.vimeo.com/video/670647422?h=142e09ef0a)
+
+## Flamingo(poetry)
+####   [Lecture 1](https://player.vimeo.com/video/670642926?h=3daff8b20f)
+####   [Lecture 2](https://player.vimeo.com/video/670641896?h=56eb601b88)
+
+## Flamingo(prose)
+####   [Lecture 1](https://player.vimeo.com/video/670639472?h=49d8aa7daf)
+####   [Lecture 2](https://player.vimeo.com/video/670636635?h=cf07e5dc61)
+
+## Writing Section
+####   [Lecture 1](https://player.vimeo.com/video/670650245?h=ed9d20ee4b)
 
 
 # Physics
@@ -43,6 +64,16 @@ List of board lectures provided by ALLEN collected by me
 ####   [Lecture 1](https://player.vimeo.com/video/668547473?h=2221843d4a)
 ####   [Lecture 2](https://player.vimeo.com/video/668546895?h=78236329f1)
 
+### 6. Nuclei | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/674131394?h=40cb5b1f2c)
+####   [Lecture 2](https://player.vimeo.com/video/674130168?h=3aaa6747a3)
+
+### 7. Semiconductor | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/673220264?h=e638f6eab8)
+####   [Lecture 2](https://player.vimeo.com/video/673222902?h=43fd2d7d3e)
+####   [Lecture 3](https://player.vimeo.com/video/673225251?h=5ffa4df03d)
+####   [Lecture 4](https://player.vimeo.com/video/673227907?h=610a7d9b12)
+
 # Chemistry
 
 ## Physical Chemistry 
@@ -74,6 +105,24 @@ List of board lectures provided by ALLEN collected by me
 ####   [Lecture 2](https://player.vimeo.com/video/668548005?h=323d9bb7ed)
 ####   [Lecture 3](https://player.vimeo.com/video/668548314?h=d5535a89c6)
 
+## Organic Chemistry | Lectures
+##### (they just provided whole organic like this)
+####   [Lecture 1](https://player.vimeo.com/video/674148079?h=1c8d935144)
+####   [Lecture 2](https://player.vimeo.com/video/674149320?h=896bcd786b)
+####   [Lecture 3](https://player.vimeo.com/video/674150032?h=ceb4066407)
+####   [Lecture 4](https://player.vimeo.com/video/674151387?h=ad090e6be8)
+####   [Lecture 5](https://player.vimeo.com/video/674152994?h=0b0d659be4)
+####   [Lecture 6](https://player.vimeo.com/video/674135044?h=53ac2e7cb7)
+####   [Lecture 7](https://player.vimeo.com/video/674136409?h=53bc6ae8dc)
+####   [Lecture 8](https://player.vimeo.com/video/674137728?h=e6d721e85e)
+####   [Lecture 9](https://player.vimeo.com/video/674138674?h=4d2e57c5cf)
+####   [Lecture 10](https://player.vimeo.com/video/674139918?h=016189dc8a)
+####   [Lecture 11](https://player.vimeo.com/video/674141275?h=5b9a3d52c5)
+####   [Lecture 12](https://player.vimeo.com/video/674143058?h=6d72e24d3d)
+####   [Lecture 13](https://player.vimeo.com/video/674144266?h=1bf6f1a6b1)
+####   [Lecture 14](https://player.vimeo.com/video/674145685?h=4f7662f2d7)
+####   [Lecture 15](https://player.vimeo.com/video/674146848?h=de568fa1af)
+
 # Maths
 
 ### 1. Integrals | Lectures
@@ -96,3 +145,46 @@ List of board lectures provided by ALLEN collected by me
 ####   [Lecture 2](https://player.vimeo.com/video/668545988?h=fd040205b6)
 ####   [Lecture 3](https://player.vimeo.com/video/668544893?h=93de9a088d)
 ####   [Lecture 4](https://player.vimeo.com/video/668545350?h=446edcdd32)
+
+### 4. Probability | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/673239854?h=afe84704be)
+####   [Lecture 2](https://player.vimeo.com/video/673234701?h=03eb22a85f)
+####   [Lecture 3](https://player.vimeo.com/video/673236433?h=f053de928a)
+####   [Lecture 4](https://player.vimeo.com/video/673237053?h=2b73c68c5c)
+####   [Lecture 5](https://player.vimeo.com/video/673239360?h=126929e76d)
+
+### 5. 3-D | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/673520396?h=d714b84387)
+####   [Lecture 2](https://player.vimeo.com/video/673233322?h=aa6d0067ef)
+####   [Lecture 3](https://player.vimeo.com/video/673230192?h=66e85f4a59)
+####   [Lecture 4](https://player.vimeo.com/video/673231215?h=1690869e2c)
+
+### 6. Vector | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/674132492?h=5208a5cf6a)
+####   [Lecture 2](https://player.vimeo.com/video/674133209?h=35f5f2c246)
+####   [Lecture 3](https://player.vimeo.com/video/674134082?h=73fac747b2)
+
+## Physical Education | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/670617747?h=5ff5c762ec)
+####   [Lecture 2](https://player.vimeo.com/video/670619082?h=9962fa9b3a)
+####   [Lecture 3](https://player.vimeo.com/video/670613433?h=0cb9ce78a0)
+####   [Lecture 4](https://player.vimeo.com/video/670614492?h=cad4db3455)
+####   [Lecture 5](https://player.vimeo.com/video/670616542?h=118c1ce019)
+
+
+## Computer Science | Lectures
+####   [Lecture 1](https://player.vimeo.com/video/670610260?h=e1dc1c6012)
+####   [Lecture 2](https://player.vimeo.com/video/670610872?h=0f5a52674a)
+####   [Lecture 3](https://player.vimeo.com/video/670611833?h=a1563dbe7a)
+####   [Lecture 4](https://player.vimeo.com/video/670612460?h=f3e1f21bbf)
+####   [Lecture 5](https://player.vimeo.com/video/670606459?h=bee3316756)
+####   [Lecture 6](https://player.vimeo.com/video/670607475?h=3faf996b09)
+####   [Lecture 7](https://player.vimeo.com/video/670608301?h=521185130b)
+####   [Lecture 8](https://player.vimeo.com/video/670609184?h=1316c781cb)
+
+
+
+
+## Practical
+### Physics
+[Refractive Index of water](https://player.vimeo.com/video/671065109?h=9d7727d0b5)
